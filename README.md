@@ -2,6 +2,8 @@
 
 A switch similar to the iPhone's "toggler" wrote in PHP with Javascript/JQuery, HTML and CSS
 
+<img border="0" src="example.png">
+
 <p><br></p>
 
 # Usage
