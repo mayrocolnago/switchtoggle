@@ -65,7 +65,7 @@ Now, if necessary, you can switch the toggler with
 switchtoggle(ID,STATE);
 ```
 
-which where STATE stands for 'true', 'false' or 'toggle' as an automatic switching of state
+where STATE stands for 'true', 'false' or 'toggle' as an automatic switching of state
 </p>
 
 <p><br></p>
@@ -73,7 +73,7 @@ which where STATE stands for 'true', 'false' or 'toggle' as an automatic switchi
         
 # Dependencies
 
-Don't forget to add the JQuery calling in order to work the functions
+Don't forget to add the JQuery call in order to use the functions
         
 ```
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -85,7 +85,7 @@ Don't forget to add the JQuery calling in order to work the functions
         
 # More usage
 
-You can eigher get if the switch is on or off by checking it's state 
+You can either get if the switch is on or off by checking it's state 
         
 ```
 $('#yesorno').on('click',function() {
