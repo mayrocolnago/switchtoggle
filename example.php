@@ -1,5 +1,6 @@
+Code for each toogler with diferent colors
+<br style="clear:both;"><br>
 
-/* Code for each toogler with diferent colors */
 <?php
   $switchid = 'switch1';
   $switchopen = true;
@@ -10,6 +11,7 @@
     <div class="switchanimation switchstate <?=(($switchopen)?'switchactive':'');?>">
       <div class="switchbark"><div class="switchbarb"></div></div></div></a>
 
+<br style="clear:both;"><br>
 
 <?php
   $switchid = 'switch2';
@@ -21,6 +23,7 @@
     <div class="switchanimation switchstate <?=(($switchopen)?'switchactive':'');?>">
       <div class="switchbark"><div class="switchbarb"></div></div></div></a>
 
+<br style="clear:both;"><br>
 
 <?php
   $switchid = 'switch3';
