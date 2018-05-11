@@ -71,7 +71,7 @@ which where STATE stands for 'true', 'false' or 'toggle' as an automatic switchi
         
 # Dependencies
 
-Don't forget to add the JQuery calling in order to functions work
+Don't forget to add the JQuery calling in order to work the functions
         
 ```
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -83,7 +83,7 @@ Don't forget to add the JQuery calling in order to functions work
         
 # More usage
 
-You can eigher get if the switch is on or off by checking his state 
+You can eigher get if the switch is on or off by checking it's state 
         
 ```
 $('#yesorno').on('click',function() {
