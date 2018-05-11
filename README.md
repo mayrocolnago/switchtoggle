@@ -1,4 +1,4 @@
-# Switch Toogle
+# Switch Toggle
 
 A switch similar to the iPhone's toogler wrote in PHP with Javascript, HTML and CSS
 
