@@ -1,6 +1,6 @@
 # Switch Toggle
 
-A switch similar to the iPhone's toogler wrote in PHP with Javascript, HTML and CSS
+A switch similar to the iPhone's toggler wrote in PHP with Javascript, HTML and CSS
 
 <p><br></p>
 
